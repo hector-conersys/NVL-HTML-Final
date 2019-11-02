@@ -1,0 +1,9 @@
+Memoria practica Final de HTML
+
+	En la práctica final basada en crear una página web de una empresa que se dedica a cuidar a mascotas mientras sus dueños están en su jornada laboral.
+	Para hacer algo visual la web, he creado la cabecera, el body con tres columnas, otro contenedor que ocupa todo el ancleo de la web y el pie de página.
+	Para los tres contenedores en sus columnas he usado algo de CSS para su distribución, bordes, colores de los bordes y anchos de cada una.
+	Dentro de cada contenedor hemos usado un elemnto de bloque h para destacar la cabecera. Dependiendo del tipo de información a mostrar he usado una tabla para indicar los servicios
+	y sus precios, otra tabla para los abonos, también he usado una lista desordenada para mostrar el personal de la empresa...
+	Debajo de las tres columnas hay otro contenedor donde se piden los datos del cliente y de su mascota, para ello se ha utilizado formularios donde el visitante de la web ha de rellenar la información solicitada.
+	Para acabar la página web está el Pie de Pagina, con lo que sería la información legal de la web.
